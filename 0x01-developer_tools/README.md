@@ -1,6 +1,6 @@
 # 0x01. Developer tools
 
-## Description:bulb:
+## Description:
 How to use the Chrome DevTools
 
 * What Developer Tools in your browser are
@@ -136,4 +136,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Grace Bamidele** - [Grace](https://github.com/Gracy222)
