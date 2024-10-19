@@ -1,6 +1,6 @@
 # 0x00. Advanced HTML
 
-## Description:bulb:
+## Description:
 How to use HTML tags to structure a web page
 * Which guidelines to follow for HTML
 * How to create the skeleton of an HTML5 page
@@ -161,4 +161,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Grace Bamidele** - [Grace](https://github.com/Gracy222)
